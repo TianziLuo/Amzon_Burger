@@ -28,3 +28,9 @@ def rename_files():
                 print(f"Failed to rename {file_name}, Reason: {e}")
         else:
             print(f"File not found: {file_name}")
+
+
+'''
+if __name__ == "__main__":
+    rename_files()
+'''
